@@ -19,15 +19,12 @@ export const About = () => {
                 </p>
                 <p>
                   <span className="card-description">Captial:{capital}</span>
-                  14525485
                 </p>
                 <p>
                   <span className="card-description">Population:{population}</span>
-                  Delhi
                 </p>
                 <p>
                   <span className="card-description">IntrestingFacts:{interestingFact}</span>
-                  We Love India
                 </p>
               </div>
             </div>
